@@ -186,6 +186,70 @@ CCL #6 https://www.youtube.com/watch?v=MPwpk-YgvjQ
 * individual conversation styles and cultural norms
   * differ by culture and region
 
+CCL #7 https://www.youtube.com/watch?v=of4XzrbkknM
+
+## Sociolinguistics
+* Social aspects of language
+* how language shapes our identity
+* dialectology
+* oberver's paradox - language used changes when observed
+* code switching - change speech depending who you're talking to
+* linguistic discrimination
+
+CCL #11 https://www.youtube.com/watch?v=A5uNFKEn4_A
+
+## Psycholinguistics
+* where and how does language acquisition happen in brain
+* Broca's aphasia
+ * can understand, but can only produce words one at a time
+ * affected away to use morphosyntax
+* Wernicke's aphasia
+ * can produce fluent sounding language, but it's nonsensical
+* Neuroplasticity
+* Production errors
+ * Spoonerisms
+ * Tip of the tongue
+ * Mixed metaphores
+* mapping between senses
+* priming experiments
+* gating experiments
+* eye tracking studies
+* garden path sentences
+* EEG
+ * N400 surges
+ * precise about time, not about space
+* FMRI
+ * brain locations
+ * precise about space, not about time
+
+CCL #12 https://www.youtube.com/watch?v=Ccsf0yX7ECg
+
+## Language acquisition
+* high amplitude sucking - attention in babies
+* babbling
+* word + gesture
+* two word stage
+* critical period
+* meaning
+* tact in social situations
+* language deprivation
+* learn languages by scaffolding from existing languages
+* language transfer - new language influenced by known language
+* motivation, identity, goals
+* domain specific vocabulary
+* code switching
+* heritage language
+
+CCL #13 https://www.youtube.com/watch?v=dNkMC92kFLA
+
+## Historical linguistics
+* language change
+* sounds, words, grammar
+* reanalyze language (napron)
+* language creation - nicaraguan sign language
+* language contact
+ * converge
+ * diverge
 
 
   
