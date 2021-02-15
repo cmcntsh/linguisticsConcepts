@@ -250,6 +250,51 @@ CCL #13 https://www.youtube.com/watch?v=dNkMC92kFLA
 * language contact
  * converge
  * diverge
+ * pidgin
+ * creoles
+* Diachronic analysis - looking at change in language over time using written sources
+* Synchronic analysis - different language comparisons
+* Cognates - words in different languages with similar origin
+* comparative reconstruction - systematic 
+* language typology - compare unrelated languages
+
+CCL #14 https://www.youtube.com/watch?v=Nxyo83cQjhI
+
+## World languages
+* maybe 7000 languages
+* differentiate language - mutual intelligibility, political factors, resources and records
+* language vs dialect
+ * mutual intelligibility - can understand each other
+ * say some things differently but still understand - different dialect
+ * can't pinpoint specific change over time
+ * dialect chain or dialect continuum - tendency for language to change along a gradient, common
+ * diaspora communities
+ * larger groups tend to change faster than smaller groups
+ * deaf community signed languages, new languages get created
+ * identity and politics play a role in what gets counted as a language
+ * Hindi and Urdu as mutually intelligible as American and Brittish english, but use different scripts to write and called different because of politics
+ * Many chinese dialects not mutually but use same writing system so often called dialects
+ * many governments lump dialects together based on how upper-class members speak
+ * official dialcects often used to create image of national unity
+ * official dialects often taught in preference to regional dialects
+ * government policies to repress indivious languages
+* language idiologies
+* dictionary
+ * several trained lexicographers years of work to create one
+ * funding
+ * some languages have access to a lot more funding than others
+* language revitalization
+ * language nests
+ * learning environments
+* linguistic justice
+ * rights of children to learn mother tongue
+ * fight for visibility of smaller languages
+ * don't discriminate against people for the way they speak
+ * stop assuming 1-1 relationship between nations and languages
+* how many languages vs how help maintain richness of linguistic experience
+
+ 
+ 
 
 
   
