@@ -424,3 +424,35 @@ CCL #14 https://www.youtube.com/watch?v=Nxyo83cQjhI
   * babbling
   * telegraphic speech
   * universal grammar
+ 
+ 
+## Terms
+* ambiguity - having two or more distinct meanings
+* antonymy - words that have opposite meaning, usually belonging to the same grammatical category
+* complementarity - existence of pairs where denial of one implies assertion of the other
+* converseness - opposition but not necessarily antonymy, pairs display symmetry in meaning
+* figure of speech - rhetorical figure, word or phrase which deviates from regular speech to produce a rhetorical effect list at: https://en.wikipedia.org/wiki/Figure_of_speech
+* glossary - alphabetical list of terms (aka vocabulary or clavis) and definitions.
+* holoyny - a whole
+* homonymy - same spelling and grammatical category, but different meanings and origins (homophones, homographs)
+* hypernym - superordinate, more general term when terms have hyponymy
+* hyponymy - inclusion, meaning of one word includes the meaning of another
+* hyponym - subordinate, more specific term when terms have hyponymy, used in taxonomy
+* idiom - group of words where meaning not explained by meaning of component words
+* lexeme - 
+* markedness - one term is marked, the other is not
+* meronym - a part
+* meronymy - a part belongs to a whole
+* metonymy - one word used metaphorically in place of the other word
+* onamsiological - identify concept then map words to concept
+* paraphrase - convey meaning of word, phrase, or sentence using other words which have the same meaning
+* polysemy - word has multiple conceptually and historically related meanings (radiation, multiplication)
+* retronymy - a new name given to a concept to differentiate it from an older version (technological changes)
+* rhetorical device - list at https://en.wikipedia.org/wiki/Rhetorical_device or stylistic device https://en.wikipedia.org/wiki/Stylistic_device
+* rhetorical operations - addition, omission, transposition, permutation
+* schemes - vary the ordinary sequence or pattern of words
+* semasiological - mapping word to definition
+* synecdoche - term for a part of something refers to the whole
+* synonymy - two or more words that have the same (or nearly) meaning, same part of speech, but different spelling
+* tropes - words are made to cary
+* word play - list at: https://en.wikipedia.org/wiki/List_of_forms_of_word_play
