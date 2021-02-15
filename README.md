@@ -196,6 +196,85 @@ CCL #7 https://www.youtube.com/watch?v=of4XzrbkknM
 * code switching - change speech depending who you're talking to
 * linguistic discrimination
 
+CCL #8 https://www.youtube.com/watch?v=vyea8Ph9BOM&list=PL8dPuuaLjXtP5mp25nStsuDzk2blncJDW&index=9
+
+## Phonetics - Consonants
+* multiple pronounciations
+* phonetics - study of speech sounds
+* International phonetic alphabet - writing system to write sounds of language very precisely
+* vocal tract
+* articulation
+* articulators - parts of body that make speech sounds
+* places of articulation
+* consonants - close the vocal tract in some way
+* [ ] square brackets indicate phonetic sounds, not letters of the alphabet
+* vowels - open vocal tract, but change shape
+* plosivs - stops, close then explode out
+ * labial [p] unvoiced [b] voiced
+ * alveolar [t] unvoiced [d] voiced
+ * velar[k] unvoiced [g] voiced
+* fricative
+ * labiodental [f] unvoiced [v] voiced
+ * [s] unvoiced [z] voiced
+ * [x] unvoiced [gamma] voiced
+ * manner of articulation
+ * voiced/unvoiced
+* nasal
+ * bilabial [m]
+ * alveolar [n]
+ * velar [engma]
+* approximants [r]
+* trills
+* taps or flaps
+* lateral fricatives
+* lateral approximants
+* IPA - chart with rows and columns, links to sounds online
+* complicated
+ * coarticulated
+ * implosive
+ * ejectives
+ * clicks
+
+CCL # 9 https://www.youtube.com/watch?v=qPTL5x0QW-Y&list=PL8dPuuaLjXtP5mp25nStsuDzk2blncJDW&index=10
+
+## Phonetics - vowels
+* vowel space
+* differences are gradient, not categorical
+* tongue position
+ * high, close
+ * low, open
+ * front
+ * back
+* lip position
+ * flat
+ * rounded
+* schwa - mid for everything, most common vowel in english
+* dipthongs - tongue changes position as sounded
+* vowel inventory - number of vowel sounds in a language
+* diacritics - marks to change anchor slightly
+ * length - amount of time
+ * nasalization - air going out nose as well as mouth
+ * tone - pitch of voice
+ * intonation - changes meaning of whole sentence
+ 
+CCL #10 https://www.youtube.com/watch?v=imH7hdOgxrU&list=PL8dPuuaLjXtP5mp25nStsuDzk2blncJDW&index=11
+## Phonology - sounds in context
+* phone
+* sound - relevant differences
+* phoneme - language specific differences
+* aspiration
+* allophones - technically different, but same meaning in language
+* phones vs phonemes
+* phoneme with 2 allophones vs 2 different phonemes
+* voiceless stops
+* phonological processes
+ * assimilation - simplifying sounds for combination
+ * dissimilation
+ * insertion
+ * deletion or elition
+ * metathesis
+
+
 CCL #11 https://www.youtube.com/watch?v=A5uNFKEn4_A
 
 ## Psycholinguistics
@@ -293,6 +372,46 @@ CCL #14 https://www.youtube.com/watch?v=Nxyo83cQjhI
  * stop assuming 1-1 relationship between nations and languages
 * how many languages vs how help maintain richness of linguistic experience
 
+ CCL #15 https://www.youtube.com/watch?v=3npuPXvA_g8&list=PL8dPuuaLjXtP5mp25nStsuDzk2blncJDW&index=16
+ 
+ ## Computational linguistics
+ * natural language processing, computational linguistics
+ * speech to text
+ * handwriting recognition
+ * optical character recognition
+ * disambiguation
+ * text generation
+ * speech synthesis
+ * break into steps
+ * machine learning, statistical patterns
+ * neural nets
+ * supervised learning - paired data
+ * unsupervised learning - non parallel data
+ * semi-supervised data
+ * bias
+  * historical bias
+  * representation bias
+  * measurement bias
+  * aggregation bias
+  * evaluation bias
+  * deployment bias
+  * style analysis tools
+ 
+ CCL #16 https://www.youtube.com/watch?v=-sUUWyo4RZQ&list=PL8dPuuaLjXtP5mp25nStsuDzk2blncJDW&index=17
+ 
+ ## Writing systems
+ * orthography - writing system
+ * symbols - graphemes
+ * meaning
+ * alphabet - each grapheme represents a phoneme
+ * abjad - primarily consonants get symbols
+ * syllabary - each grapheme represents a syllable
+ * logographic - each grapheme represents a whole word
+ * proto-writing
+ * invention of writing
+  * summarian, cunieform - 4500
+  * china, oracle bone - 3500
+  * olmec - 3000
  
  
 
